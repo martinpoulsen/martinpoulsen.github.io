@@ -1,0 +1,40 @@
+
+name: KANYE
+url: https://open.spotify.com/playlist/3rZSCpqh9mjCCY4I3p4sea?si=11dac923190f46bb
+img: https://c.files.bbci.co.uk/E86F/production/_101130595_hi046470518.jpg
+
+===
+
+name: KENDRICK
+url: https://open.spotify.com/playlist/7Aq8AGQ227xUJJB1myJhNT?si=a862ef3bf68d4faf
+img: https://s.abcnews.com/images/GMA/kendrick-lamar-file-gty-ml-220509_1652107303473_hpMain_16x9_1600.jpg
+
+===
+
+name: HIP HOP
+url: https://open.spotify.com/playlist/1jnUHOxQDmf74cumgkOOSB?si=288c0083a4eb4b86
+img: https://s3.us-east-1.amazonaws.com/bomb-images/_hiresolution/150582632-06092016-vince-staples-bomb-1.jpg
+
+===
+
+name: LA NICE
+url: https://open.spotify.com/playlist/6g6P2FUkgxioVsMbidAO9o?si=dde4244226ba4bff
+img: https://media.pitchfork.com/photos/592c6d7b13d1975652140522/2:1/w_648/58580630.jpg
+
+===
+
+name: AMBIENT
+url: https://open.spotify.com/playlist/2ko7VlFIc0us84bTbHsclW?si=3fd648cc7cca425a
+img: https://media.pitchfork.com/photos/5afa020c09d5ee50c49e8cd9/4:3/w_524,h_393,c_limit/Brian-Eno.jpg
+
+===
+
+name: STUFF CASPAR FOUND AND CARED ABOUT
+url: https://open.spotify.com/playlist/3G7DqILgAxh4GxK9u4psoS?si=a678ee0fe771446c
+img: https://i1.sndcdn.com/avatars-000481054152-lmdj8q-t500x500.jpg
+
+===
+
+name: DREAM POP
+url: https://open.spotify.com/playlist/1to9lDBKTetqbBxaN2z9TO?si=00c84dbb644c408c
+img: https://townsquare.media/site/838/files/2018/06/yumi-zouma.jpg
